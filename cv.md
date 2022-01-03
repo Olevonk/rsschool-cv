@@ -80,6 +80,7 @@ GO IT - IT training school FULL STACK - developer (pre-course)
 - HTML and CSS.
 
 **2021**
+
 SoloLearn - programming courses
 
 - HTML and CSS;
@@ -87,6 +88,7 @@ SoloLearn - programming courses
 - Responsive Web Design Course.
 
 **2014**
+
 Computer Academy STEP - WEB SEO
 
 - HTML and CSS;
