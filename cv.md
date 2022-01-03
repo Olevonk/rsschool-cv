@@ -6,8 +6,6 @@ Discord: VonKrupps#8869
 
 **Kyiv**
 
-+38 (063) 665-78-77
-
 +38 (098) 665-78-77
 
 vonkrupps@gmail.com
