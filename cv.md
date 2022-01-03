@@ -1,14 +1,18 @@
 # Oleksii Fon Krupp
 
 GitHub: Olevonk
+
 Discord: VonKrupps#8869
 
 **Kyiv**
+
 +38 (063) 665-78-77
+
 +38 (098) 665-78-77
+
 vonkrupps@gmail.com
 
-![Photo Oleksii Fon Krupp](/img/OleksiiFonKrupp.JPG " Oleksii Fon Krupp ")
+![Photo Oleksii Fon Krupp](./img/OleksiiFonKrupp.JPG " Oleksii Fon Krupp ")
 
 ## Goal:
 
@@ -33,14 +37,14 @@ Effectively use your Front-End development skills
 
 ## Worked on projects:
 
-2020 fuxion.life - online store selling food supplements;
-2019 form.com.ua - landing page for the sale of food additives;
-2015 - 2018 ivoryfilms.tv - corporate site (Production);
-2013 budmis.com - website for the sale of construction equipment;
-2012 ngap.com.ua - online store selling computer equipment;
-2010 designersband.com - information site for the sale of armchair bags;
-2009 openshop.in.ua - online store of computer and household appliances;
-2008 telemob.com.ua - online store of computer equipment.
+- 2020 fuxion.life - online store selling food supplements;
+- 2019 form.com.ua - landing page for the sale of food additives;
+- 2015 - 2018 ivoryfilms.tv - corporate site (Production);
+- 2013 budmis.com - website for the sale of construction equipment;
+- 2012 ngap.com.ua - online store selling computer equipment;
+- 2010 designersband.com - information site for the sale of armchair bags;
+- 2009 openshop.in.ua - online store of computer and household appliances;
+- 2008 telemob.com.ua - online store of computer equipment.
 
 ### 1999 - 2016/2017 - 2021
 
@@ -56,22 +60,29 @@ Private Entrepreneur / Freelancer:
 ## Education:
 
 **2006 – 2011**
+
 Vinnytsia State Pedagogical University named after Mykhailo Kotsyubynsky
+
 Practical psychology (specialist).
 
 **2006 – 2011**
+
 College of Trade and Economics
+
 Kyiv National University of Trade and Economics
+
 Management / management of foreign economic activity (bachelor).
 
 ## Courses:
 
 **2021**
+
 GO IT - IT training school FULL STACK - developer (pre-course)
 
 - HTML and CSS.
 
 **2021**
+
 SoloLearn - programming courses
 
 - HTML and CSS;
@@ -79,6 +90,7 @@ SoloLearn - programming courses
 - Responsive Web Design Course.
 
 **2014**
+
 Computer Academy STEP - WEB SEO
 
 - HTML and CSS;
@@ -89,10 +101,13 @@ Computer Academy STEP - WEB SEO
 ## Additional Information:
 
 **Language skills:**
+
 Ukrainian - native, Russian - free possession, English (Lower Intermediate).
 
 **Personal qualities:**
+
 Purposefulness, meticulousness, attentiveness, persistence, sociability.
 
 **Service in the army and anti-terrorist operation:**
+
 2014 January - 2015 June.
