@@ -1,4 +1,5 @@
-#Oleksii Fon Krupp
+# Oleksii Fon Krupp
+
 GitHub: Olevonk
 Discord: VonKrupps#8869
 
@@ -7,13 +8,15 @@ Discord: VonKrupps#8869
 +38 (098) 665-78-77
 vonkrupps@gmail.com
 
-![Photo Oleksii Fon Krupp](/img/OleksiiFonKrupp.JPG" Oleksii Fon Krupp ")
+![Photo Oleksii Fon Krupp](/img/OleksiiFonKrupp.JPG " Oleksii Fon Krupp ")
 
-##Goal:
+## Goal:
+
 Effectively use your Front-End development skills
 (HTML, CSS, JS, etc.) as well as management in a growing team.
 
-##Experience:
+## Experience:
+
 **2008 - 2021**
 
 - setting up, optimizing, organizing online stores and websites;
@@ -28,7 +31,8 @@ Effectively use your Front-End development skills
 - fruitful work with key customers;
 - market research.
 
-##Worked on projects:
+## Worked on projects:
+
 2020 fuxion.life - online store selling food supplements;
 2019 form.com.ua - landing page for the sale of food additives;
 2015 - 2018 ivoryfilms.tv - corporate site (Production);
@@ -38,7 +42,8 @@ Effectively use your Front-End development skills
 2009 openshop.in.ua - online store of computer and household appliances;
 2008 telemob.com.ua - online store of computer equipment.
 
-###1999 - 2016/2017 - 2021
+### 1999 - 2016/2017 - 2021
+
 Private Entrepreneur / Freelancer:
 
 - opened online stores;
@@ -48,7 +53,7 @@ Private Entrepreneur / Freelancer:
 - researched the market;
 - set tasks for subordinates and monitored their implementation.
 
-##Education:
+## Education:
 
 **2006 – 2011**
 Vinnytsia State Pedagogical University named after Mykhailo Kotsyubynsky
@@ -59,7 +64,8 @@ College of Trade and Economics
 Kyiv National University of Trade and Economics
 Management / management of foreign economic activity (bachelor).
 
-##Courses:
+## Courses:
+
 **2021**
 GO IT - IT training school FULL STACK - developer (pre-course)
 
@@ -80,7 +86,7 @@ Computer Academy STEP - WEB SEO
 - SEO;
 - SMM.
 
-##Additional Information:
+## Additional Information:
 
 **Language skills:**
 Ukrainian - native, Russian - free possession, English (Lower Intermediate).
