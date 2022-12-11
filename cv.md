@@ -10,7 +10,7 @@ Discord: VonKrupps#8869
 
 vonkrupps@gmail.com
 
-![Photo Oleksii Fon Krupp](./img/OleksiiFonKruppCV.JPG " Oleksii Fon Krupp ")
+![Photo Oleksii Fon Krupp](../img/OleksiiFonKruppCV.JPG " Oleksii Fon Krupp ")
 
 ## Goal:
 
