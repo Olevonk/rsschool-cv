@@ -96,3 +96,17 @@ Computer Academy STEP - WEB SEO
 - JavaScript;
 - SEO;
 - SMM.
+
+## Additional Information:
+
+**Language skills:**
+
+Ukrainian - native, Russian - free possession, English (Lower Intermediate).
+
+**Personal qualities:**
+
+Purposefulness, meticulousness, attentiveness, persistence, sociability.
+
+**Service in the army and anti-terrorist operation:**
+
+2014 January - 2015 June.
